@@ -88,6 +88,7 @@
             <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
             <connections>
                 <outletCollection property="gestureRecognizers" destination="XE9-dX-f9Y" appends="YES" id="iXI-vY-uGl"/>
+                <outletCollection property="gestureRecognizers" destination="XE9-dX-f9Y" appends="YES" id="DMQ-Gg-I1H"/>
             </connections>
         </view>
         <tapGestureRecognizer id="XE9-dX-f9Y">

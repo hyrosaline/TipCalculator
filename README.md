@@ -1,4 +1,4 @@
 # TipCalculator
 my first ios app, followed tutorial here:
 http://vimeo.com/74764846
-Time taken: 2hours.
+Time taken: 5hours.
